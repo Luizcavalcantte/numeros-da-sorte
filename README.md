@@ -1,5 +1,6 @@
 # numeros-da-sorte
 
-![Numeros da sorte](https://user-images.githubusercontent.com/85976619/129605598-6f2ac1af-0cd3-487b-961e-eb72b9e5d0dc.png)
+![numeros-da-sorte](https://user-images.githubusercontent.com/85976619/129606409-bb138d45-8d9c-42ab-8b69-4a7e8cfca0c3.gif)
+
 
 numeros aleatorios pra jogar na mega
