@@ -4,3 +4,7 @@
 
 
 numeros aleatorios pra jogar na mega
+
+Projeto no ar
+
+https://luizcavalcantte.github.io/numeros-da-sorte/
